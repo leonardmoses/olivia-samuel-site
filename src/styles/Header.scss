@@ -1,13 +1,15 @@
 @import './App.scss';
 
 .Header {
-    background-color: rgb(240, 227, 244);
+    // background-color: rgb(222, 241, 242);
+    padding-bottom: 5px;
     .HeaderTitle {
         width: 30%;
         // background-color: aqua;
         margin: 0 auto;
         text-align: center;
         min-width: fit-content;
+        
         h3 {
             font-size: 8rem;
         }

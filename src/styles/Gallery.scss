@@ -4,14 +4,17 @@
 .Gallery {
     display: flex;
     flex-wrap: wrap;
-    background-color: khaki;
+    background-color: cadetblue;
     width: 97%;
     margin: 0 auto;
+    padding: 20px 10px 0 10px;
+    border-radius: 10px;
 
     h1 {
         width: 100%;
         text-align: center;
-        // background-color: crimson;
+        background-color: rgb(139, 197, 199);
+        border: solid 1px rgb(54, 109, 110);
     }
     p{
         // background-color: aqua;
@@ -34,10 +37,10 @@
             width: 100%;
 
             li {
-                background-color: rgb(110, 91, 44);
+                background-color: rgb(139, 197, 199);
                 height: 200px;
                 width: 200px;
-                border: solid 1px black;
+                border: solid 1px rgb(54, 109, 110);
                 border-radius: 50%;
                 margin: 5px;
                 
