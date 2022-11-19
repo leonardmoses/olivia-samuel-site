@@ -5,7 +5,7 @@ const Gallery = () => {
     return ( 
         <Layout>
             <div className="Gallery">
-                <h1>Gallery</h1>
+                <h2>Gallery</h2>
                 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium temporibus dolorem voluptate eius magnam vel eum unde suscipit accusantium rem nobis deserunt tempore ad aliquid asperiores, ex omnis! Incidunt pariatur provident vitae suscipit excepturi ipsa sint minus quibusdam rerum fugiat.</p>
 

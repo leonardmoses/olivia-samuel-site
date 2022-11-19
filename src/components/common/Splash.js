@@ -6,7 +6,7 @@ const Splash = () => {
 
         <div className="Splash">
             <div className="LinkContainer">
-                <Link to="/home" className="Link"><h1>Olivia Samuel</h1></Link>
+                <Link to="/home" className="Link"><div className="hx2">Olivia Samuel</div></Link>
             </div>
         </div>
      );
