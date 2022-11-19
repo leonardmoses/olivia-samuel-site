@@ -1,0 +1,33 @@
+@import "./App.scss";
+
+
+
+.Splash {
+
+    background-color: purple;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    // flex-wrap: wrap;
+
+    // h1 {font-size: 1rem;}
+
+    .LinkContainer {
+        // background-color: aqua;
+        display: flex;
+        flex-wrap: wrap;
+        width: fit-content;
+        margin: 0 auto;
+        // justify-content: center;
+        align-items: center;
+        // object-position: center;
+
+        h1{
+            // background-color: green;
+            width: fit-content;
+        }
+    }
+}
+
+
+
