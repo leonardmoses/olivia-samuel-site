@@ -1,0 +1,47 @@
+@import "./App.scss";
+
+
+.Gallery {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: khaki;
+    width: 97%;
+    margin: 0 auto;
+
+    h1 {
+        width: 100%;
+        text-align: center;
+        // background-color: crimson;
+    }
+    p{
+        // background-color: aqua;
+        padding: 10px;
+    }
+
+    .PhotoContainer {
+        // background-color: aqua;
+        margin-top: 30px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+
+        ul {
+            // background-color: chocolate;
+            width: fit-content;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            width: 100%;
+
+            li {
+                background-color: rgb(110, 91, 44);
+                height: 200px;
+                width: 200px;
+                border: solid 1px black;
+                border-radius: 50%;
+                margin: 5px;
+                
+            }
+        }
+    }
+}

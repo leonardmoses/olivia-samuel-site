@@ -1,0 +1,17 @@
+@import './App.scss';
+
+
+.Home {
+    background-color: cadetblue;
+    width: 97%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 10px;
+
+    h1 {
+        // background-color: chartreuse;
+        width: 100%;
+        text-align: center;
+    }
+}

@@ -1,10 +1,10 @@
-
+import '../../styles/Footer.scss';
 
 const Footer = () => {
     
     return ( 
         <div className="Footer">
-            <h3>Footer</h3>
+            <h6>Socials coming soon...</h6>
         </div>
      );
 }
